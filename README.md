@@ -1,5 +1,5 @@
-## Hi there 👋
-
+olá👋👋,bem vindo ao meu perfil!
+me chamo Emili, e sou estudante do primeiro ano do ensino médio
 <!--
 **emistk/emistk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
